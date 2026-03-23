@@ -1,4 +1,4 @@
-package day2;
+package day1;
 
 public class Program2_TypeCasting {
 	public static void main(String[] args)
